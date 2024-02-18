@@ -1,0 +1,5 @@
+-> Fork the current repositary  
+-> Download the Repo and Open through Android Studio(or any other IDE) 
+-> Gradle Sync  
+-> Install Git LFS (If you dont have already) and the __git lfs pull__ to pull the f3d lib  
+-> Install in app it should run properly  
